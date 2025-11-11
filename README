@@ -1,0 +1,23 @@
+This is my *Project 2* for the *Oasis Infobyte Python Programming Internship (November Batch)*.
+
+The BMI Calculator helps users calculate their *Body Mass Index* and know their *health category* based on height and weight inputs.
+
+---
+
+## 🧠 Features
+- Takes user height (in meters) and weight (in kilograms)
+- Calculates BMI using the formula:
+--BMI =weight/(height**2)
+- Displays health status:
+- Underweight (BMI < 18.5)
+- Normal (18.5 ≤ BMI < 25)
+- Overweight (25 ≤ BMI < 30)
+- Obese (BMI ≥ 30)
+
+---
+
+## 🛠️ Technologies Used
+- Python
+
+---
+
